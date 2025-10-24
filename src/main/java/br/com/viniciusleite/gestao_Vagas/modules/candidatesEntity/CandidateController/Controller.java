@@ -1,9 +1,7 @@
-package br.com.viniciusleite.gestao_vagas.modules.candidatesEntity.CandidateController;
+package br.com.viniciusleite.gestao_Vagas.modules.candidatesEntity.CandidateController;
 
-import br.com.viniciusleite.gestao_vagas.modules.candidatesEntity.userCase.CreateCandidateUserCase;
-import br.com.viniciusleite.gestao_vagas.modules.exception.UserFoundException;
-import br.com.viniciusleite.gestao_vagas.modules.candidatesEntity.Candidato;
-import br.com.viniciusleite.gestao_vagas.modules.candidatesEntity.CandidatoRepository;
+import br.com.viniciusleite.gestao_Vagas.modules.candidatesEntity.userCase.CreateCandidateUserCase;
+import br.com.viniciusleite.gestao_Vagas.modules.candidatesEntity.Candidato;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

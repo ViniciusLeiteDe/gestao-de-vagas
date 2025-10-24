@@ -1,4 +1,4 @@
-package br.com.viniciusleite.gestao_vagas.modules.candidatesEntity.CandidateController;
+package br.com.viniciusleite.gestao_Vagas.modules.candidatesEntity.CandidateController;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

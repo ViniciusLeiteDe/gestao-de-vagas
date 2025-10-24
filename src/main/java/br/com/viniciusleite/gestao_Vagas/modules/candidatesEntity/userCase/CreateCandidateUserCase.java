@@ -1,8 +1,8 @@
-package br.com.viniciusleite.gestao_vagas.modules.candidatesEntity.userCase;
+package br.com.viniciusleite.gestao_Vagas.modules.candidatesEntity.userCase;
 
-import br.com.viniciusleite.gestao_vagas.modules.candidatesEntity.Candidato;
-import br.com.viniciusleite.gestao_vagas.modules.candidatesEntity.CandidatoRepository;
-import br.com.viniciusleite.gestao_vagas.modules.exception.UserFoundException;
+import br.com.viniciusleite.gestao_Vagas.modules.candidatesEntity.Candidato;
+import br.com.viniciusleite.gestao_Vagas.modules.candidatesEntity.CandidatoRepository;
+import br.com.viniciusleite.gestao_Vagas.modules.exception.UserFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,8 +1,8 @@
-package br.com.viniciusleite.gestao_vagas.modules.company.userCase;
+package br.com.viniciusleite.gestao_Vagas.modules.company.userCase;
 
-import br.com.viniciusleite.gestao_vagas.modules.company.entites.CompanyEntity;
-import br.com.viniciusleite.gestao_vagas.modules.company.repository.CreateCompanyRepository;
-import br.com.viniciusleite.gestao_vagas.modules.exception.UserFoundException;
+import br.com.viniciusleite.gestao_Vagas.modules.company.entites.CompanyEntity;
+import br.com.viniciusleite.gestao_Vagas.modules.company.repository.CreateCompanyRepository;
+import br.com.viniciusleite.gestao_Vagas.modules.exception.UserFoundException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

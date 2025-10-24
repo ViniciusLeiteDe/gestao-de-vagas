@@ -1,4 +1,4 @@
-package br.com.viniciusleite.gestao_vagas.modules.exception;
+package br.com.viniciusleite.gestao_Vagas.modules.exception;
 
 import org.springframework.context.MessageSource;
 import org.springframework.context.i18n.LocaleContextHolder;

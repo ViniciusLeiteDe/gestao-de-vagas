@@ -1,4 +1,4 @@
-package br.com.viniciusleite.gestao_vagas.modules.company.entites;
+package br.com.viniciusleite.gestao_Vagas.modules.company.entites;
 
 import jakarta.persistence.*;
 import lombok.Data;

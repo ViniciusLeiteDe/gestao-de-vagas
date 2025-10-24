@@ -1,4 +1,4 @@
-package br.com.viniciusleite.gestao_vagas.modules.candidatesEntity;
+package br.com.viniciusleite.gestao_Vagas.modules.candidatesEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

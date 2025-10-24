@@ -1,8 +1,7 @@
-package br.com.viniciusleite.gestao_vagas;
+package br.com.viniciusleite.gestao_Vagas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication // Aponta para o spring a classe principal do progeto.
 //
